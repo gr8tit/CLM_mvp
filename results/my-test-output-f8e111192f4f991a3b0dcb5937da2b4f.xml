@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="7.187" tests="2" failures="0">
+  <testsuite name="Root Suite" timestamp="2023-03-16T12:48:39" tests="0" file="cypress\e2e\Firstscenario.cy.js" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="Jumia Web Automation Test" timestamp="2023-03-16T12:48:39" tests="1" time="6.962" failures="0">
+    <testcase name="Jumia Web Automation Test Visit URL" time="2.098" classname="Visit URL">
+    </testcase>
+  </testsuite>
+  <testsuite name="User Login Scenario" timestamp="2023-03-16T12:48:46" tests="1" time="0.178" failures="0">
+    <testcase name="User Login Scenario User Login testcase" time="0.272" classname="User Login testcase">
+    </testcase>
+  </testsuite>
+</testsuites>
