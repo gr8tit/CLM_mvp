@@ -1,0 +1,12 @@
+{
+	"TC003": {
+		"CustView": "Customer 360",
+		"CustOptions": "Customer Name",
+		"value": "Testingteam Istesting"
+	},
+	"TC004": {
+		"CustView": "Customer 360",
+		"CustOptions": "Customer ID",
+		"value": "C354217699"
+	}
+}

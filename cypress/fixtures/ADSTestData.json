@@ -1,0 +1,20 @@
+{
+    "TC001": {
+        "CustView": "Customer 360",
+        "CustOptions": "MSISDN",
+        "value": "9132058066",
+        "tabname": "Service",
+        "tabdata": "Balances/CS Information ",
+        "checkADS": "Yes"
+        
+    },
+    "TC002": {
+        "CustView": "Customer 360",
+        "CustOptions": "MSISDN",
+        "value": "9132058069",
+        "tabname": "Service",
+        "tabdata": "Balances/CS Information ",
+        "checkADS": "No"
+        
+    }
+}

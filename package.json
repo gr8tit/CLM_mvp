@@ -7,7 +7,6 @@
     "cy:open": "cypress open",
     "cy:tests": "cypress run",
     "test": "npx run"
-
   },
   "author": "Temmy",
   "license": "ISC",
@@ -20,5 +19,13 @@
   "keywords": [
     "Sim",
     "Registeration"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gr8tit/CLM_mvp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gr8tit/CLM_mvp/issues"
+  },
+  "homepage": "https://github.com/gr8tit/CLM_mvp#readme"
 }

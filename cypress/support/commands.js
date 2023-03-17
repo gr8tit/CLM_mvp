@@ -23,3 +23,19 @@
 //
 // -- This will overwrite an existing command --
 // Cypress.Commands.overwrite('visit', (originalFn, url, options) => { ... })
+/// <reference types="cypress" />
+
+Cypress.on('uncaught:exception', (err, runnable) => {
+    // returning false here prevents Cypress from
+    // failing the test
+    //debugger
+    return false
+})
+
+Cypress.on('fail', (err) => {
+    //debugger
+})
+// import 'cypress-wait-until';
+// import 'cypress-waitfor';
+// import 'cypress-file-upload';
+// import 'cypress-plugin-tab';
